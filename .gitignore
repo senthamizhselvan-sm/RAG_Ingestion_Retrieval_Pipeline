@@ -3,6 +3,7 @@
 
 # Vector database
 db/
+dbv2/
 
 # Python
 __pycache__/
@@ -16,6 +17,7 @@ venv/
 .idea/
 *.swp
 *.swo
+*.json
 
 # OS
 .DS_Store
